@@ -1,4 +1,5 @@
 t=int(input())
+#print(t)
 for z in range(t):
     n,x,a,b=map(int,input().split())
     if a<b:
