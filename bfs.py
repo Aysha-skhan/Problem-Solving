@@ -8,7 +8,7 @@ def bfs(adj, start, end):
 
     visited[start] = True
     q.append(start)
-
+    # print(start)
     while q:
         curr = q.popleft()
 
