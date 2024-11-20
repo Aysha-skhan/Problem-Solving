@@ -1,6 +1,6 @@
 def add_edge(adj, u, v):
     adj[u].append(v)
-
+# print(adj)
 
 V = 8
 adj = [[] for _ in range(V)]
