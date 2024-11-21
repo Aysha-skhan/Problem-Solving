@@ -1,9 +1,11 @@
 def check(lenn,arr,strr):
     dict={}
     if len(strr)==lenn:
+        # print(strr)
         for y in range(lenn):
             if arr[y] not in dict:
                 if s[y] in dict.values():
+                    # print(s[y])
                     return 'NO'
                 dict[arr[y]]=s[y]
             elif arr[y] in dict:
