@@ -57,6 +57,7 @@ Contributions are welcome! You can submit new solutions, optimize existing ones,
 1. Fork the repository.
 2. Create a new branch with a descriptive name.
 3. Submit a pull request.
+4. Merge
 
 ## Problem-Solving Topics Covered
 
