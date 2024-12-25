@@ -1,14 +1,4 @@
-def smallest_number(nums):
-  """
-  This function takes a list of positive integers and returns the smallest number
-  formed by concatenating the integers.
 
-  Args:
-      nums: A list of positive integers.
-
-  Returns:
-      The smallest number formed by concatenating the integers.
-  """
 
   def custom_key(num):
     # Check if the number is zero, in which case return a high value (e.g., 1000)
