@@ -1,3 +1,4 @@
+# oop to implement a 2x2 matrix
 class mat2by2:
     def __init__(self,a11=0, a12=0, a21=0, a22=0):
         self.setA11(a11)
