@@ -1,5 +1,6 @@
 #inp
 t=int(input())
+#loop
 for y in range(t):
     n,m=map(int,input().split())
     cells=n*m
