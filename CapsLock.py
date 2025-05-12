@@ -1,3 +1,4 @@
+#input
 s=input()
 if len(s)==1:
     if ord(s[0]) < 97:
