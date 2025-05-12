@@ -7,6 +7,7 @@ if len(s)==1:
         res=chr(ord(s[0]) & ~32)
     print(res)
 else:
+    # dont change
     as_it_is=-1
     res=''
     for y in range(len(s)):
