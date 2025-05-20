@@ -5,10 +5,10 @@ This repository contains solutions to various programming problems and coding ch
 
 ## Repository Structure
 
-- **/problems/** - Contains individual problem solutions, each in its dedicated folder.
-- **/codes/** - Contains python code.
-- **/data_structures/** - Implementations of common data structures (e.g., stacks, queues, linked lists).
-- **/algorithms/** - A library of algorithms (e.g., sorting, searching, recursion) that are often used to solve the problems.
+- **problems** - Contains individual problem solutions, each in its dedicated folder.
+- **codes** - Contains python code.
+- **data_structures** - Implementations of common data structures (e.g., stacks, queues, linked lists).
+- **algorithms** - A library of algorithms (e.g., sorting, searching, recursion) that are often used to solve the problems.
 - **README.md** - Overview of the repository, including instructions for setup and contributing.
 
 ## Getting Started
