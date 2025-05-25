@@ -1,4 +1,5 @@
 s=input()
+# input
 if len(s)==1:
     if ord(s[0]) < 97:
         res = chr(ord(s[0]) + 32)
