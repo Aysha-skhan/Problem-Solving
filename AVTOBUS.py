@@ -1,3 +1,4 @@
+# hard-code
 t=int(input())
 for z in range(t):
     tyres=int(input())
