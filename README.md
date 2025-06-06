@@ -65,5 +65,3 @@ Contributions are welcome! You can submit new solutions, optimize existing ones,
 - **Other Concepts**: Greedy algorithms, Divide & Conquer, Backtracking
 
 ## License
-
-This project is licensed under the Apache License.
