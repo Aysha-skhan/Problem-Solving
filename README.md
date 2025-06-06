@@ -63,5 +63,3 @@ Contributions are welcome! You can submit new solutions, optimize existing ones,
 - **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
 - **Algorithms**: Sorting, Searching, Dynamic Programming, Recursion
 - **Other Concepts**: Greedy algorithms, Divide & Conquer, Backtracking
-
-## License
