@@ -47,7 +47,6 @@ Each solution is typically a standalone script. To run a solution for a specific
 python problems/problem_name.py
 ```
 
-For test cases or scripts with multiple functions, run the file in an IDE or add test cases at the end of the script.
 
 ## Contributing
 
